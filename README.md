@@ -1,15 +1,15 @@
-🚀 StoryPix Market  Decentralized Dataset & AI Model Marketplace
+🚀 IPX-Market  Decentralized Dataset & AI Model Marketplace
 
-A Story Protocol Hackathon Project
+Our Hackathon Project
 
-Welcome to StoryPix Market, a decentralized platform that empowers creators, developers, researchers, and AI builders to register, store, license, and monetize datasets using the power of Story Protocol.
+Welcome to IPX-Market, a decentralized platform that empowers creators, developers, researchers, and AI builders to register, store, license, and monetize datasets using the power of Story Protocol.
 Our mission is to bring transparency, ownership, and trust to the data and AI ecosystem.
 
 👉 Live Demo: https://v0-storypixmarket-an.vercel.app/
 
 ⭐ Overview
 
-StoryPix Market enables users to:
+IPX-Market enables users to:
 
 Register datasets as onchain IP assets
 
@@ -105,7 +105,7 @@ Create a No Duplicate Dataset Index for buyers
 
 🏗 Tech Stack
 
-Frontend: V0 + Next.js + React
+Frontend: Next.js + React
 
 UI Components: React Bits
 
